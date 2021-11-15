@@ -1,5 +1,6 @@
 # memoral
-check Readme.rar
+check Readme.rar for install
+__________________________________________________
 
 Preview
 
